@@ -1,0 +1,5 @@
+Notebook:
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap02/2_1_Supervised_Learning.ipynb
+
+Tutorial:
+Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
