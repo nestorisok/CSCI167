@@ -1,2 +1,2 @@
 # CSCI167
-# test
+# Repository for CSCI167 at CSU Fresno
