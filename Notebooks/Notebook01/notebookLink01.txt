@@ -1,5 +1,2 @@
 Notebook:
 https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap01/1_1_BackgroundMathematics.ipynb
-
-Tutorial:
-Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
