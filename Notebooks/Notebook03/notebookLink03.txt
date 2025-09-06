@@ -1,0 +1,9 @@
+Notebook:
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap03/3_1_Shallow_Networks_I.ipynb
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap03/3_2_Shallow_Networks_II.ipynb 
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap03/3_3_Shallow_Network_Regions.ipynb 
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap03/3_4_Activation_Functions.ipynb 
+
+
+Tutorial:
+Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
