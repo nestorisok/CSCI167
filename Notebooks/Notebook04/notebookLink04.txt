@@ -1,0 +1,8 @@
+Notebook:
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap04/4_1_Composing_Networks.ipynb
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap04/4_2_Clipping_functions.ipynb 
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap04/4_3_Deep_Networks.ipynb
+
+
+Tutorial:
+Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
