@@ -1,0 +1,7 @@
+Notebook:
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap05/5_1_Least_Squares_Loss.ipynb
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap05/5_2_Binary_Cross_Entropy_Loss.ipynb
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap05/5_3_Multiclass_Cross_entropy_Loss.ipynb
+
+Tutorial:
+Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
