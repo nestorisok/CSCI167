@@ -1,0 +1,11 @@
+Notebook:
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap06/6_1_Line_Search.ipynb
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap06/6_2_Gradient_Descent.ipynb
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap06/6_3_Stochastic_Gradient_Descent.ipynb
+
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap06/6_4_Momentum.ipynb
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap06/6_5_Adam.ipynb
+
+
+Tutorial:
+Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
