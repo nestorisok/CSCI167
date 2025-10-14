@@ -1,6 +1,7 @@
 Notebook:
 https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap07/7_1_Backpropagation_in_Toy_Model.ipynb
 https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap07/7_2_Backpropagation.ipynb
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap07/7_3_Initialization.ipynb
 
 Tutorial:
 Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
