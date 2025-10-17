@@ -1,0 +1,5 @@
+Notebook:
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap08/8_1_MNIST_1D_Performance.ipynb
+
+Tutorial:
+Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
