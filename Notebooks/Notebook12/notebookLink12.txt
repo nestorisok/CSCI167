@@ -1,0 +1,5 @@
+Notebook:
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap12/12_1_Self_Attention.ipynb
+
+Tutorial:
+Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
