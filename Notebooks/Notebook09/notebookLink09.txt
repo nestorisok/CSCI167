@@ -1,0 +1,5 @@
+Notebook:
+https://github.com/udlbook/udlbook/blob/main/Notebooks/Chap09/9_5_Augmentation.ipynb
+
+Tutorial:
+Python with colab (https://cs231n.github.io/python-numpy-tutorial/)
